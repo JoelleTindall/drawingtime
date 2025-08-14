@@ -1,1 +1,0 @@
-import{_ as c,x as t,y as n,B as o,N as s}from"./N0nNAky9.js";const _={},a={class:"h-screen w-screen"};function r(d,f){const e=s;return n(),t("div",a,[o(e)])}const m=c(_,[["render",r]]);export{m as default};
